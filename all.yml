@@ -15,3 +15,6 @@
   - role: hub
   ## languages
   - role: rbenv
+    rubies:
+      - 2.1.2
+    global: 2.1.2
