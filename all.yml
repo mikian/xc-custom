@@ -30,6 +30,7 @@
   - role: brew_package
     package_name: pow
   - role: brew_package
+    tap: thoughtbot/formulae
     package_name: rcm
   - role: brew_package
     package_name: rename
@@ -82,6 +83,7 @@
   - role: cask_package
     package_name: ksdiff
   - role: cask_package
+    tap: jimbojsb/launchrocket
     package_name: launchrocket
   - role: cask_package
     package_name: mactex
